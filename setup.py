@@ -37,7 +37,7 @@ if sys.argv[:2] == ["setup.py", "bdist_wheel"]:
 
 try:
     setup(
-        name="Mezzanine",
+        name="mymezzanine",
         version=version,
         author="Stephen McDonald",
         author_email="stephen.mc@gmail.com",
